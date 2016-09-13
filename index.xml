@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heshed - </title>
+    <link>http://heshed.github.io/</link>
+    <description>Recent content on Heshed - </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2016 14:31:19 +0900</lastBuildDate>
+    <atom:link href="http://heshed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://heshed.github.io/post/about/</link>
+      <pubDate>Tue, 13 Sep 2016 14:31:19 +0900</pubDate>
+      
+      <guid>http://heshed.github.io/post/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
