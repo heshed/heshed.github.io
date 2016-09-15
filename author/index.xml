@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Heshed - Salva</title>
+    <link>https://heshed.github.io/author/</link>
+    <description>Recent content in Authors on Heshed - Salva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2016 21:03:33 +0900</lastBuildDate>
+    <atom:link href="https://heshed.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Timo Boll</title>
+      <link>https://heshed.github.io/author/timo-boll/</link>
+      <pubDate>Tue, 13 Sep 2016 21:03:33 +0900</pubDate>
+      
+      <guid>https://heshed.github.io/author/timo-boll/</guid>
+      <description>&lt;p&gt;placeholder&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
