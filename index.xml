@@ -6,8 +6,31 @@
     <description>Recent content on Heshed - Salva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Sep 2016 07:19:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Sep 2016 23:10:08 +0900</lastBuildDate>
     <atom:link href="https://heshed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>study sites</title>
+      <link>https://heshed.github.io/post/study/site/</link>
+      <pubDate>Sun, 18 Sep 2016 23:10:08 +0900</pubDate>
+      
+      <guid>https://heshed.github.io/post/study/site/</guid>
+      <description>
+
+&lt;h1 id=&#34;shichao&#34;&gt;shichao&lt;/h1&gt;
+
+&lt;p&gt;필수로 봐야할 컴퓨터 프로그래밍책들을 요약해둔 사이트&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/&#34;&gt;https://notes.shichao.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/apue/&#34;&gt;https://notes.shichao.io/apue/&lt;/a&gt; &lt;strong&gt;Advanced programming Unix environment&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/lkd/&#34;&gt;https://notes.shichao.io/lkd/&lt;/a&gt; &lt;strong&gt;Linux Kernel&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/unp/&#34;&gt;https://notes.shichao.io/unp/&lt;/a&gt; &lt;strong&gt;Unix Networking Programming&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/tcpv1/&#34;&gt;https://notes.shichao.io/tcpv1/&lt;/a&gt; &lt;strong&gt;TCP&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/gopl/&#34;&gt;https://notes.shichao.io/gopl/&lt;/a&gt; &lt;strong&gt;The Golang Programming Language&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>raft</title>

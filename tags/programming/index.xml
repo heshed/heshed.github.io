@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Heshed - Salva</title>
-    <link>https://heshed.github.io/tags/golang/</link>
-    <description>Recent content in Golang on Heshed - Salva</description>
+    <title>Programming on Heshed - Salva</title>
+    <link>https://heshed.github.io/tags/programming/</link>
+    <description>Recent content in Programming on Heshed - Salva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Sep 2016 23:10:08 +0900</lastBuildDate>
-    <atom:link href="https://heshed.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://heshed.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>study sites</title>
@@ -28,30 +28,6 @@
 &lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/unp/&#34;&gt;https://notes.shichao.io/unp/&lt;/a&gt; &lt;strong&gt;Unix Networking Programming&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/tcpv1/&#34;&gt;https://notes.shichao.io/tcpv1/&lt;/a&gt; &lt;strong&gt;TCP&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/gopl/&#34;&gt;https://notes.shichao.io/gopl/&lt;/a&gt; &lt;strong&gt;The Golang Programming Language&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>awesome go</title>
-      <link>https://heshed.github.io/post/golang/awesome-go/</link>
-      <pubDate>Thu, 15 Sep 2016 23:36:10 +0900</pubDate>
-      
-      <guid>https://heshed.github.io/post/golang/awesome-go/</guid>
-      <description>
-
-&lt;h1 id=&#34;golang-리소스-모음&#34;&gt;Golang 리소스 모음&lt;/h1&gt;
-
-&lt;h2 id=&#34;performance&#34;&gt;Performance&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://go-talks.appspot.com/github.com/davecheney/presentations/writing-high-performance-go.slide&#34;&gt;Writing High Performance Go&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;core&#34;&gt;Core&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.altoros.com/author/siarhei-matsiukevich&#34;&gt;Golang Internals&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
