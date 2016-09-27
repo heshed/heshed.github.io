@@ -6,13 +6,13 @@
     <description>Recent content in Awesome on Heshed - Salva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Sep 2016 23:36:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2016 23:36:10 +0900</lastBuildDate>
     <atom:link href="https://heshed.github.io/tags/awesome/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>awesome go</title>
       <link>https://heshed.github.io/post/golang/awesome-go/</link>
-      <pubDate>Thu, 15 Sep 2016 23:36:10 +0900</pubDate>
+      <pubDate>Wed, 28 Sep 2016 23:36:10 +0900</pubDate>
       
       <guid>https://heshed.github.io/post/golang/awesome-go/</guid>
       <description>
@@ -25,10 +25,49 @@
 &lt;li&gt;&lt;a href=&#34;http://go-talks.appspot.com/github.com/davecheney/presentations/writing-high-performance-go.slide&#34;&gt;Writing High Performance Go&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&#34;http&#34;&gt;http&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/davecheney/httpstat&#34;&gt;httpstat&lt;/a&gt; fantastic http stat&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;core&#34;&gt;Core&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://blog.altoros.com/author/siarhei-matsiukevich&#34;&gt;Golang Internals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rsc/c2go&#34;&gt;c2go - C to Go translation tool supporting Go toolchain migration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cespare/xxhash&#34;&gt;xxhash - A Go implementation of the 64-bit xxHash algorithm (XXH64)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tmrts/go-patterns&#34;&gt;go-patterns - Curated list of Go patterns and idioms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;vision&#34;&gt;Vision&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fogleman/primitive&#34;&gt;primitive - Reproducing images with geometric primitives.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/anthonynsimon/bild&#34;&gt;bild - A collection of parallel image processing algorithms in pure Go&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;actor&#34;&gt;Actor&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AsynkronIT/gam&#34;&gt;GAM - Go Actor Model&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;desktop&#34;&gt;Desktop&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alexflint/gallium&#34;&gt;gallium - Build desktop applications in Go and HTML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;free-resources&#34;&gt;Free resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/egonelbre/gophers&#34;&gt;Free gophers images&lt;/a&gt; under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0&lt;/a&gt; license.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
