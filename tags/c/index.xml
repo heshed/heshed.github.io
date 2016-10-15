@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C on Heshed - Salva</title>
-    <link>https://heshed.github.io/tags/c/</link>
-    <description>Recent content in C on Heshed - Salva</description>
+    <title>Heshed - Salva</title>
+    <link>https://heshed.github.io/tags/c/index.xml</link>
+    <description>Recent content on Heshed - Salva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2016 23:10:08 +0900</lastBuildDate>
     <atom:link href="https://heshed.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

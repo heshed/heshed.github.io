@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heshed - Salva</title>
-    <link>https://heshed.github.io/tags/golang/index.xml</link>
+    <link>https://heshed.github.io/tags/%EB%B2%88%EC%97%AD/index.xml</link>
     <description>Recent content on Heshed - Salva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://heshed.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://heshed.github.io/tags/%EB%B2%88%EC%97%AD/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reducing boilerplate with go generate</title>
@@ -262,135 +262,6 @@ specific type where the generic package used &lt;code&gt;interface{}&lt;/code&gt
 
 &lt;p&gt;&lt;a href=&#34;https://xkcd.com/1205/&#34;&gt;xkcd&lt;/a&gt; 그 대답에 대답하는데 도움이 될 것입니다.
 &lt;a href=&#34;https://xkcd.com/1205/&#34;&gt;&lt;img src=&#34;http://imgs.xkcd.com/comics/is_it_worth_the_time.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>awesome go</title>
-      <link>https://heshed.github.io/post/golang/awesome-go/</link>
-      <pubDate>Sat, 08 Oct 2016 23:06:10 +0900</pubDate>
-      
-      <guid>https://heshed.github.io/post/golang/awesome-go/</guid>
-      <description>
-
-&lt;h1 id=&#34;golang-리소스-모음&#34;&gt;Golang 리소스 모음&lt;/h1&gt;
-
-&lt;h2 id=&#34;performance&#34;&gt;performance&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://go-talks.appspot.com/github.com/davecheney/presentations/writing-high-performance-go.slide&#34;&gt;Writing High Performance Go&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;http-trace&#34;&gt;http trace&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/davecheney/httpstat&#34;&gt;httpstat&lt;/a&gt; fantastic http stat&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/opentracing/opentracing-go&#34;&gt;opentracing-go - Go implementation of the OpenTracing API&lt;/a&gt; &lt;a href=&#34;http://opentracing.io&#34;&gt;http://opentracing.io&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/opentracing/tracing-http-request-latency-in-go-with-opentracing-7cc1282a100a#.8z81nkehv&#34;&gt;Tracing HTTP request latency in Go with OpenTracing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;core&#34;&gt;core&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.altoros.com/author/siarhei-matsiukevich&#34;&gt;Golang Internals&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rsc/c2go&#34;&gt;c2go - C to Go translation tool supporting Go toolchain migration&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;algorithm&#34;&gt;algorithm&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cespare/xxhash&#34;&gt;xxhash - A Go implementation of the 64-bit xxHash algorithm (XXH64)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tmrts/go-patterns&#34;&gt;go-patterns - Curated list of Go patterns and idioms&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;orm&#34;&gt;orm&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/go-reform/reform&#34;&gt;reform - A better ORM for Go, based on non-empty interfaces and code generation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;database&#34;&gt;database&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/microo8/mimir&#34;&gt;mimir - Generates minimal embedded database from structs in golang&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;using &lt;a href=&#34;https://github.com/syndtr/goleveldb&#34;&gt;leveldb&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;vision&#34;&gt;vision&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/fogleman/primitive&#34;&gt;primitive - Reproducing images with geometric primitives.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/anthonynsimon/bild&#34;&gt;bild - A collection of parallel image processing algorithms in pure Go&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;actor&#34;&gt;actor&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/AsynkronIT/gam&#34;&gt;GAM - Go Actor Model&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;desktop&#34;&gt;desktop&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alexflint/gallium&#34;&gt;gallium - Build desktop applications in Go and HTML&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;apps&#34;&gt;apps&lt;/h2&gt;
-
-&lt;h2 id=&#34;free-resources&#34;&gt;free resources&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/egonelbre/gophers&#34;&gt;Free gophers images&lt;/a&gt; under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0&lt;/a&gt; license.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;web-server&#34;&gt;web server&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mholt/caddy/&#34;&gt;Caddy - Fast, cross-platform HTTP/2 web server with automatic HTTPS&lt;/a&gt; &lt;a href=&#34;https://caddyserver.com/&#34;&gt;https://caddyserver.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/labstack/armor&#34;&gt;armor - Simple HTTP server, supports HTTP/2 and auto TLS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pressly/chi&#34;&gt;chi - lightweight, idiomatic and composable router for building Go 1.7+ HTTP services&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;logging&#34;&gt;logging&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/uber-go/zap&#34;&gt;zap - Fast, structured, leveled logging in Go&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;distributed-computation&#34;&gt;distributed computation&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chrislusf/glow&#34;&gt;Glow is an easy-to-use distributed computation system&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>study sites</title>
-      <link>https://heshed.github.io/post/study/site/</link>
-      <pubDate>Sun, 18 Sep 2016 23:10:08 +0900</pubDate>
-      
-      <guid>https://heshed.github.io/post/study/site/</guid>
-      <description>
-
-&lt;h1 id=&#34;shichao&#34;&gt;shichao&lt;/h1&gt;
-
-&lt;p&gt;필수로 봐야할 컴퓨터 프로그래밍책들을 요약해둔 사이트&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/&#34;&gt;https://notes.shichao.io/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/apue/&#34;&gt;https://notes.shichao.io/apue/&lt;/a&gt; &lt;strong&gt;Advanced programming Unix environment&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/lkd/&#34;&gt;https://notes.shichao.io/lkd/&lt;/a&gt; &lt;strong&gt;Linux Kernel&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/unp/&#34;&gt;https://notes.shichao.io/unp/&lt;/a&gt; &lt;strong&gt;Unix Networking Programming&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/tcpv1/&#34;&gt;https://notes.shichao.io/tcpv1/&lt;/a&gt; &lt;strong&gt;TCP&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://notes.shichao.io/gopl/&#34;&gt;https://notes.shichao.io/gopl/&lt;/a&gt; &lt;strong&gt;The Golang Programming Language&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

@@ -43,7 +43,7 @@
   <meta name="author" content="">
 
   
-  <meta name="generator" content="Hugo 0.16" />
+  <meta name="generator" content="Hugo 0.17" />
 
   
   
@@ -128,20 +128,22 @@
 <ul>
 <li><a href="#golang-리소스-모음">Golang 리소스 모음</a>
 <ul>
-<li><a href="#performance">Performance</a>
+<li><a href="#performance">performance</a>
 <ul>
 <li><a href="#http-trace">http trace</a></li>
 </ul></li>
-<li><a href="#core">Core</a></li>
-<li><a href="#algorithm">Algorithm</a></li>
-<li><a href="#database">Database</a></li>
-<li><a href="#vision">Vision</a></li>
-<li><a href="#actor">Actor</a></li>
-<li><a href="#desktop">Desktop</a></li>
-<li><a href="#apps">Apps</a></li>
-<li><a href="#free-resources">Free resources</a></li>
+<li><a href="#core">core</a></li>
+<li><a href="#algorithm">algorithm</a></li>
+<li><a href="#orm">orm</a></li>
+<li><a href="#database">database</a></li>
+<li><a href="#vision">vision</a></li>
+<li><a href="#actor">actor</a></li>
+<li><a href="#desktop">desktop</a></li>
+<li><a href="#apps">apps</a></li>
+<li><a href="#free-resources">free resources</a></li>
 <li><a href="#web-server">web server</a></li>
-<li><a href="#logging">Logging</a></li>
+<li><a href="#logging">logging</a></li>
+<li><a href="#distributed-computation">distributed computation</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -150,7 +152,7 @@
 
 <h1 id="golang-리소스-모음">Golang 리소스 모음</h1>
 
-<h2 id="performance">Performance</h2>
+<h2 id="performance">performance</h2>
 
 <ul>
 <li><a href="http://go-talks.appspot.com/github.com/davecheney/presentations/writing-high-performance-go.slide">Writing High Performance Go</a></li>
@@ -167,21 +169,27 @@
 </ul></li>
 </ul>
 
-<h2 id="core">Core</h2>
+<h2 id="core">core</h2>
 
 <ul>
 <li><a href="http://blog.altoros.com/author/siarhei-matsiukevich">Golang Internals</a></li>
 <li><a href="https://github.com/rsc/c2go">c2go - C to Go translation tool supporting Go toolchain migration</a></li>
 </ul>
 
-<h2 id="algorithm">Algorithm</h2>
+<h2 id="algorithm">algorithm</h2>
 
 <ul>
 <li><a href="https://github.com/cespare/xxhash">xxhash - A Go implementation of the 64-bit xxHash algorithm (XXH64)</a></li>
 <li><a href="https://github.com/tmrts/go-patterns">go-patterns - Curated list of Go patterns and idioms</a></li>
 </ul>
 
-<h2 id="database">Database</h2>
+<h2 id="orm">orm</h2>
+
+<ul>
+<li><a href="https://github.com/go-reform/reform">reform - A better ORM for Go, based on non-empty interfaces and code generation</a></li>
+</ul>
+
+<h2 id="database">database</h2>
 
 <ul>
 <li><a href="https://github.com/microo8/mimir">mimir - Generates minimal embedded database from structs in golang</a>
@@ -191,28 +199,28 @@
 </ul></li>
 </ul>
 
-<h2 id="vision">Vision</h2>
+<h2 id="vision">vision</h2>
 
 <ul>
 <li><a href="https://github.com/fogleman/primitive">primitive - Reproducing images with geometric primitives.</a></li>
 <li><a href="https://github.com/anthonynsimon/bild">bild - A collection of parallel image processing algorithms in pure Go</a></li>
 </ul>
 
-<h2 id="actor">Actor</h2>
+<h2 id="actor">actor</h2>
 
 <ul>
 <li><a href="https://github.com/AsynkronIT/gam">GAM - Go Actor Model</a></li>
 </ul>
 
-<h2 id="desktop">Desktop</h2>
+<h2 id="desktop">desktop</h2>
 
 <ul>
 <li><a href="https://github.com/alexflint/gallium">gallium - Build desktop applications in Go and HTML</a></li>
 </ul>
 
-<h2 id="apps">Apps</h2>
+<h2 id="apps">apps</h2>
 
-<h2 id="free-resources">Free resources</h2>
+<h2 id="free-resources">free resources</h2>
 
 <ul>
 <li><a href="https://github.com/egonelbre/gophers">Free gophers images</a> under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> license.</li>
@@ -223,12 +231,19 @@
 <ul>
 <li><a href="https://github.com/mholt/caddy/">Caddy - Fast, cross-platform HTTP/2 web server with automatic HTTPS</a> <a href="https://caddyserver.com/">https://caddyserver.com/</a></li>
 <li><a href="https://github.com/labstack/armor">armor - Simple HTTP server, supports HTTP/2 and auto TLS</a></li>
+<li><a href="https://github.com/pressly/chi">chi - lightweight, idiomatic and composable router for building Go 1.7+ HTTP services</a></li>
 </ul>
 
-<h2 id="logging">Logging</h2>
+<h2 id="logging">logging</h2>
 
 <ul>
 <li><a href="https://github.com/uber-go/zap">zap - Fast, structured, leveled logging in Go</a></li>
+</ul>
+
+<h2 id="distributed-computation">distributed computation</h2>
+
+<ul>
+<li><a href="https://github.com/chrislusf/glow">Glow is an easy-to-use distributed computation system</a></li>
 </ul>
 
         </div>
@@ -258,6 +273,8 @@
         <a class="basic-alignment left" href="https://heshed.github.io/post/study/site/" title="study sites">study sites</a>
     
 
+    
+      <a class="basic-alignment right" href="https://heshed.github.io/post/golang/reducing-boilerplate-with-go-generate/" title="Reducing boilerplate with go generate">Reducing boilerplate with go generate</a>
     
   </p>
   
@@ -350,6 +367,10 @@
         <ul id="recent_posts">
           
             <li class="post">
+              <a href="https://heshed.github.io/post/golang/reducing-boilerplate-with-go-generate/">Reducing boilerplate with go generate</a>
+            </li>
+          
+            <li class="post">
               <a href="https://heshed.github.io/post/golang/awesome-go/">awesome go</a>
             </li>
           
@@ -363,10 +384,6 @@
           
             <li class="post">
               <a href="https://heshed.github.io/author/timo-boll/">Timo Boll</a>
-            </li>
-          
-            <li class="post">
-              <a href="https://heshed.github.io/post/about/">about</a>
             </li>
           
         </ul>
