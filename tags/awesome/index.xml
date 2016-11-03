@@ -18,10 +18,17 @@
 
 &lt;h1 id=&#34;golang-리소스-모음&#34;&gt;Golang 리소스 모음&lt;/h1&gt;
 
+&lt;h2 id=&#34;static-analysis&#34;&gt;static analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nickng/dingo-hunter&#34;&gt;dingo-hunter - Static analyser for finding Deadlocks in Go&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;performance&#34;&gt;performance&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://go-talks.appspot.com/github.com/davecheney/presentations/writing-high-performance-go.slide&#34;&gt;Writing High Performance Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/codesenberg/bombardier&#34;&gt;bombardier - Fast crossplatform HTTP benchmarking tool written in Go&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;http-trace&#34;&gt;http trace&lt;/h3&gt;
@@ -63,6 +70,7 @@
 &lt;ul&gt;
 &lt;li&gt;using &lt;a href=&#34;https://github.com/syndtr/goleveldb&#34;&gt;leveldb&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/attic-labs/noms&#34;&gt;noms - The versioned, forkable, syncable database&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;vision&#34;&gt;vision&lt;/h2&gt;
@@ -110,6 +118,13 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/chrislusf/glow&#34;&gt;Glow is an easy-to-use distributed computation system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;cross-compile&#34;&gt;cross compile&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mitchellh/gox&#34;&gt;gox - A dead simple, no frills Go cross compile tool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/laher/goxc&#34;&gt;goxc - a build tool for Go, with a focus on cross-compiling, packaging and deployment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

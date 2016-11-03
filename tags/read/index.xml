@@ -9,6 +9,72 @@
     <atom:link href="https://heshed.github.io/tags/read/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>webpack</title>
+      <link>https://heshed.github.io/post/web/webpack/</link>
+      <pubDate>Thu, 03 Nov 2016 10:02:15 +0900</pubDate>
+      
+      <guid>https://heshed.github.io/post/web/webpack/</guid>
+      <description>
+
+&lt;h1 id=&#34;읽을거리&#34;&gt;읽을거리&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.bz4aihfm0&#34;&gt;Getting Started with Webpack 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>lets read</title>
+      <link>https://heshed.github.io/post/golang/lets-read/</link>
+      <pubDate>Tue, 18 Oct 2016 15:28:10 +0900</pubDate>
+      
+      <guid>https://heshed.github.io/post/golang/lets-read/</guid>
+      <description>
+
+&lt;h1 id=&#34;읽을거리&#34;&gt;읽을거리&lt;/h1&gt;
+
+&lt;h2 id=&#34;번역&#34;&gt;번역&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gosudaweb.gitbooks.io/effective-go-in-korean&#34;&gt;Effective Go in Korean&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.rakyll.org/go-tool-flags/&#34;&gt;Go tooling essentials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zeta.si/page/Using-Go-Channels-Instead-Of-Conditions&#34;&gt;Using Go Channels Instead Of Conditions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.goin5minutes.com/blog/channel_over_channel/&#34;&gt;Passing Channels over Channels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;youtube-channel&#34;&gt;Youtube channel&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/golang/comments/57yyxv/best_go_programming_youtube_channels/&#34;&gt;Best Go Programming YouTube channels?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;golang-features&#34;&gt;Golang features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tapirgames.com/blog/golang-panic-recover-mechanism&#34;&gt;How panic/recover Works In Golang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tapirgames.com/blog/golang-1.7-bce&#34;&gt;Bounds Check Elimination (BCE) In Golang 1.7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/golang/go/wiki/ResearchPapers&#34;&gt;ResearchPapers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;course&#34;&gt;Course&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/learn-how-to-code/?couponCode=GOLEARN&#34;&gt;udemy - Go (golang) Programming Language&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn How To Code: Google&amp;rsquo;s Go (golang) Programming Language&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reducing boilerplate with go generate</title>
       <link>https://heshed.github.io/post/golang/reducing-boilerplate-with-go-generate/</link>
       <pubDate>Sun, 16 Oct 2016 01:03:50 +0900</pubDate>
