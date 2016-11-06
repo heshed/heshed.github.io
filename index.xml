@@ -6,8 +6,73 @@
     <description>Recent content on Heshed - Salva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2016 10:02:15 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2016 22:52:19 +0900</lastBuildDate>
     <atom:link href="https://heshed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2016-11-06</title>
+      <link>https://heshed.github.io/post/github-trend/2016-11-06/</link>
+      <pubDate>Sun, 06 Nov 2016 22:52:19 +0900</pubDate>
+      
+      <guid>https://heshed.github.io/post/github-trend/2016-11-06/</guid>
+      <description>
+
+&lt;h1 id=&#34;deep-leaning-machine-leaning&#34;&gt;deep leaning, machine leaning&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alexjc/neural-enhance&#34;&gt;neural-enhance - Super Resolution for images using deep learning.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lengstrom/fast-style-transfer&#34;&gt;fast-style-transfer - Fast Style Transfer in TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ZuzooVn/machine-learning-for-software-engineers&#34;&gt;Top-down learning path: Machine Learning for Software Engineers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;os&#34;&gt;os&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/minoca/os&#34;&gt;minoca os - Minoca operating system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;ios&#34;&gt;ios&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Jasonette/JASONETTE-iOS&#34;&gt;JASONETTE-iOS - Native App over HTTP&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create your own native iOS app with nothing but JSON. Then send it over the Internet.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;security&#34;&gt;security&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CISOfy/lynis&#34;&gt;lynis - Security auditing tool for Linux, macOS, and UNIX-based systems.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;javascript&#34;&gt;javascript&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zeit/next.js&#34;&gt;next.js - is a minimalistic framework for server-rendered React applications.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;python&#34;&gt;python&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/channelcat/sanic&#34;&gt;sanic - Python 3.5+ web server that&amp;rsquo;s written to go fast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;aws&#34;&gt;aws&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/open-guides/og-aws&#34;&gt;Amazon Web Services — a practical guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;osx-utility&#34;&gt;osx utility&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wulkano/kap&#34;&gt;kap - An open-source screen recorder built with web technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>webpack</title>
