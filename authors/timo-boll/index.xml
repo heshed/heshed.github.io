@@ -9,6 +9,21 @@
     <atom:link href="https://heshed.github.io/authors/timo-boll/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>tig</title>
+      <link>https://heshed.github.io/post/tips/tig/</link>
+      <pubDate>Wed, 16 Nov 2016 11:24:37 +0900</pubDate>
+      
+      <guid>https://heshed.github.io/post/tips/tig/</guid>
+      <description>
+
+&lt;h2 id=&#34;인텔리제이의-터미널창에서-tig-화면이-깨질때&#34;&gt;인텔리제이의 터미널창에서 tig 화면이 깨질때&lt;/h2&gt;
+
+&lt;p&gt;~/.tigrc 에 아래의 내용을 붙여넣자
+- &lt;a href=&#34;https://github.com/jonas/tig/blob/master/tigrc&#34;&gt;https://github.com/jonas/tig/blob/master/tigrc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2016-11-06</title>
       <link>https://heshed.github.io/post/github-trending/2016-11-06/</link>
       <pubDate>Sun, 06 Nov 2016 22:52:19 +0900</pubDate>
